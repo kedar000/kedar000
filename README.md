@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @kedar000
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building innovative solutions.
+Welcome to my GitHub profile! 
 
 ## 👀 I’m interested in
 - Web development (Frontend & Backend)
@@ -8,14 +8,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - Open-source contributions
 
 ## 🌱 I’m currently learning
-- Rust programming language
 - Next.js and React
+- Mainly focused on Backend
 - Advanced database management with PostgreSQL
+- Rust programming language
 
-## 💞️ I’m looking to collaborate on
+## 💻 I’m looking to collaborate on
 - Open-source projects
 - Web applications that leverage modern technologies
-- Any exciting ideas or projects in the Web3 space
+- Any exciting ideas or projects in the Web2 and Web3 space
 
 ## 📫 How to reach me
 - Email: kedareswarkotha@gmail.com
