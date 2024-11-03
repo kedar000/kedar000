@@ -1,7 +1,7 @@
-# 👋 Hi
+## 👾 Ah, I see you’ve arrived… as expected.
 Welcome to my GitHub profile! 
 
-## 👾 I’m interested in
+##  I’m interested in
 - Web development (Frontend & Backend)
 - Blockchain and Web3 technologies
 - Open-source contributions
